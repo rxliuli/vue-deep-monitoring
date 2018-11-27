@@ -4,7 +4,7 @@
 
 ## 说明
 
-该 repo 是为了配合博客记录 [Vue 深度监听](.) 的演示
+该 repo 是为了配合博客记录 [Vue 深度监听](https://vue-deep-monitoring.rxliuli.com/) 的演示
 
 ## Build Setup
 
